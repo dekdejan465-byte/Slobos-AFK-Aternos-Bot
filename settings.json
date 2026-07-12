@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "ClockHouse.aternos.me",
+    "port": 24014,
     "version": "",
     "try-creative": false
   },
